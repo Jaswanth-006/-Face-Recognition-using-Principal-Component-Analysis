@@ -1,0 +1,4 @@
+data set: https://cswww.essex.ac.uk/mv/allfaces/faces94.html
+
+step 1: open training file >>> train.mlx (training process)
+step 2: open >>>> test.mlx >>>choose test image from testing file
